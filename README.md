@@ -1,2 +1,2 @@
-# Basic-Web-Page
-Hello, this is my first repository regarding a simple web page.
+# basic-web-page
+Hello, this is my first repository featuring a simple web page.
